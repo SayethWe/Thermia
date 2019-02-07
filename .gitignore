@@ -1,0 +1,9 @@
+/bin/
+/gradle/
+/build/
+/Thermia_Server.launch
+/Thermia_Client.launch
+/gradlew.bat
+/gradlew
+/.gradle
+/.settings
